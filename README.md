@@ -1,4 +1,4 @@
-# Simple Color Filetype Icons
+# Simple File Format Icons
 An icon set for various file formats. Originally built for the default filetype images included with [Nelliel](https://github.com/NellielProject/Nelliel).
 
 ## License
